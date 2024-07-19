@@ -55,7 +55,7 @@ global.read_status_from =  process.env.READ_STATUS_FROM  ||  "923184474176,92
 global.api_smd = "https://api-smd.onrender.com" //  || "https://api-smd-1.vercel.app" // expires
 global.scan = "https://suhail-md-vtsf.onrender.com";
 
-global.SESSION_ID = process.env.SESSION_ID ||  "CrownOrdeal"  // PUT your SESSION_ID 
+global.SESSION_ID = process.env.SESSION_ID ||  "BegunKinky"  // PUT your SESSION_ID 
 
 module.exports = {
 
